@@ -1,0 +1,12 @@
+* {
+    box-sizing: 0;
+    margin: 0;
+}
+
+:root {
+
+ --DeepSkyBlue: #00BFFF;
+ --MediumSpringGreen: #00FA9A;
+ --LawnGreen: #7CFC00;
+ --limegreen: #32CD32;
+}
